@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/justinboyle/Documents/personal/codeeval/RollerCoaster'
+let g:netrw_dirhist_2='/Users/justinboyle/Documents/work/node/sportsauthority.api'
+let g:netrw_dirhist_3='/Users/justinboyle/Documents/work/node/sportsauthority.m'
+let g:netrw_dirhist_4='/Users/justinboyle/Documents/work/node/dockers.m'
+let g:netrw_dirhist_5='/Users/justinboyle/Documents/work/node/sportsauthority.m'
+let g:netrw_dirhist_6='/Users/justinboyle/Documents/work/node/nautica.m'
